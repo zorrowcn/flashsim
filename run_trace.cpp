@@ -1,5 +1,6 @@
 /* Copyright 2009, 2010 Brendan Tauras */
 
+//my changzhang
 /* run_trace.cpp is part of FlashSim. */
 
 /* FlashSim is free software: you can redistribute it and/or modify
